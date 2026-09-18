@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 深色模式（ColorOS 深色主题下自动切换） -->
+    <style name="Theme.DSHMobile" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#111318</item>
+        <item name="android:windowBackground">#111318</item>
+    </style>
+</resources>

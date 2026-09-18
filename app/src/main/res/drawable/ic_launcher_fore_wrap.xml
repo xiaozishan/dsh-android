@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 前景图标留白包装：官方 app-icon 全幅贴边，包一层 inset 适配自适应图标的圆形/圆角裁剪 -->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_launcher_fore"
+    android:inset="18%" />

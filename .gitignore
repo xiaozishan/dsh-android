@@ -1,0 +1,20 @@
+# ===== Android / Gradle =====
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+.idea/
+.cxx/
+captures/
+
+# ===== 本地参考克隆（第三方 MIT 代码，不入库）=====
+reference/
+
+# ===== 运行时/测试产物 =====
+dsh-home-test/
+*.log
+
+# ===== 系统 =====
+.DS_Store
+Thumbs.db
